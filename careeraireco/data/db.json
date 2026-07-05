@@ -1,0 +1,285 @@
+{
+    "users": {
+        "student@careerai.com": {
+            "id": 1,
+            "name": "Demo Student",
+            "email": "student@careerai.com",
+            "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+            "education_level": "Bachelor",
+            "role": "student",
+            "created_at": "2026-06-27 14:30:56",
+            "top_career": "Quantitative FinTech Developer",
+            "interest_profile": "Investigative & Enterprising",
+            "skills_score": 76
+        },
+        "admin@careerai.com": {
+            "id": 2,
+            "name": "Dr. Sarah Jenkins",
+            "email": "admin@careerai.com",
+            "password": "$2y$10$Jj2HQeZCGDOZouT\/wQgxK.lgLNWqKm4v20sbn1cY3ES2TCOMGWgMa",
+            "role": "admin",
+            "created_at": "2026-06-30 07:08:10",
+            "top_career": "AI & Machine Learning Engineer",
+            "education": "Bachelor",
+            "specialization": "Computer Science",
+            "cgpa": 85,
+            "bio": "",
+            "portfolio": ""
+        },
+        "kira@gmail.com": {
+            "id": 14,
+            "name": "kira",
+            "email": "kira@gmail.com",
+            "password": "$2y$10$7QsK6KOh5\/niz2b4WvudOer.qcefVKVkeTA73iK6ndIGhQGe9DMQ2",
+            "education_level": null,
+            "role": "student",
+            "created_at": "2026-07-02 22:25:20",
+            "skills_score": 80,
+            "top_career": "AI & Machine Learning Engineer"
+        }
+    },
+    "profiles": [],
+    "assessments": [],
+    "surveys": [],
+    "recommendations_log": [
+        {
+            "student_name": "kira",
+            "email": "kira@gmail.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 91,
+            "cgpa": 85,
+            "date": "2026-07-02 16:44"
+        },
+        {
+            "student_name": "kira",
+            "email": "kira@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 87,
+            "date": "2026-07-02 16:26"
+        },
+        {
+            "student_name": "kira",
+            "email": "kira@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 96,
+            "cgpa": 85,
+            "date": "2026-07-02 16:25"
+        },
+        {
+            "student_name": "kira",
+            "email": "kira@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 96,
+            "cgpa": 85,
+            "date": "2026-07-02 16:25"
+        },
+        {
+            "student_name": "Demo Student",
+            "email": "student@careerai.com",
+            "top_career": "Quantitative FinTech Developer",
+            "score": 98,
+            "cgpa": 85.9,
+            "date": "2026-07-02 16:24"
+        },
+        {
+            "student_name": "Demo Student",
+            "email": "student@careerai.com",
+            "top_career": "Quantitative FinTech Developer",
+            "score": 98,
+            "cgpa": 85.9,
+            "date": "2026-07-02 16:24"
+        },
+        {
+            "student_name": "Demo Student",
+            "email": "student@careerai.com",
+            "top_career": "Quantitative FinTech Developer",
+            "score": 98,
+            "cgpa": 85,
+            "date": "2026-07-02 16:23"
+        },
+        {
+            "student_name": "Demo Student",
+            "email": "student@careerai.com",
+            "top_career": "Quantitative FinTech Developer",
+            "score": 98,
+            "cgpa": 85,
+            "date": "2026-07-02 16:23"
+        },
+        {
+            "student_name": "Demo Student",
+            "email": "student@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 91,
+            "cgpa": 85,
+            "date": "2026-07-02 16:22"
+        },
+        {
+            "student_name": "Kuru",
+            "email": "1234@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 85,
+            "date": "2026-07-02 15:33"
+        },
+        {
+            "student_name": "Kuru",
+            "email": "1234@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 85,
+            "date": "2026-07-02 15:33"
+        },
+        {
+            "student_name": "Kuru",
+            "email": "1234@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 85,
+            "date": "2026-07-02 15:32"
+        },
+        {
+            "student_name": "Kuru",
+            "email": "1234@gmail.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 85,
+            "date": "2026-07-02 15:32"
+        },
+        {
+            "student_name": "Dr. Sarah Jenkins",
+            "email": "admin@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 96,
+            "cgpa": 93.6,
+            "date": "2026-07-02 15:31"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 88,
+            "date": "2026-07-02 15:30"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "Data Scientist & Big Data Architect",
+            "score": 98,
+            "cgpa": 88,
+            "date": "2026-07-02 15:30"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 93,
+            "cgpa": 88,
+            "date": "2026-07-02 15:19"
+        },
+        {
+            "student_name": "Kuru",
+            "email": "123@gmail.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 98,
+            "cgpa": 100,
+            "date": "2026-07-02 15:17"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 97,
+            "cgpa": 97.7,
+            "date": "2026-06-30 07:51"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 93,
+            "cgpa": 88,
+            "date": "2026-06-30 07:50"
+        },
+        {
+            "student_name": "Dr. Sarah Jenkins",
+            "email": "admin@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 94,
+            "cgpa": 91.2,
+            "date": "2026-06-30 07:09"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "AI & Machine Learning Engineer",
+            "score": 93,
+            "cgpa": 88,
+            "date": "2026-06-30 07:08"
+        },
+        {
+            "student_name": "Alex Rivera",
+            "email": "student@careerai.com",
+            "top_career": "AI Software Engineer",
+            "score": 94,
+            "cgpa": 88,
+            "date": "2026-06-30"
+        },
+        {
+            "student_name": "Sam Patel",
+            "email": "sam@careerai.com",
+            "top_career": "Lead Data Scientist",
+            "score": 91,
+            "cgpa": 92,
+            "date": "2026-06-29"
+        }
+    ],
+    "careers": {
+        "ai_eng": {
+            "id": "ai_eng",
+            "title": "AI & Machine Learning Engineer",
+            "category": "Artificial Intelligence",
+            "description": "Designs, builds, and deploys scalable machine learning models, deep neural networks, and generative LLM pipelines.",
+            "benchmarks": "Min Technical Score: 85%, CGPA: 85+, Key Skills: PyTorch, Python, Transformers, Vector DBs",
+            "salary": "$135,000 \/ yr",
+            "growth": "+34% YoY"
+        },
+        "data_sci": {
+            "id": "data_sci",
+            "title": "Data Scientist & Big Data Architect",
+            "category": "Data Science & Analytics",
+            "description": "Extracts actionable business insights from petabyte-scale datasets using predictive modeling and statistical inference.",
+            "benchmarks": "Min Technical Score: 80%, CGPA: 82+, Key Skills: Python, SQL, Spark, Statistical Modeling",
+            "salary": "$125,000 \/ yr",
+            "growth": "+28% YoY"
+        },
+        "cloud_arch": {
+            "id": "cloud_arch",
+            "title": "Cloud & DevOps Solutions Architect",
+            "category": "Cloud Computing & Infrastructure",
+            "description": "Architects resilient, secure, and highly scalable multi-cloud infrastructure and automated CI\/CD deployment pipelines.",
+            "benchmarks": "Min Technical Score: 78%, CGPA: 80+, Key Skills: AWS\/Azure, Kubernetes, Terraform, Docker",
+            "salary": "$130,000 \/ yr",
+            "growth": "+31% YoY"
+        },
+        "cyber_sec": {
+            "id": "cyber_sec",
+            "title": "Cybersecurity Threat Analyst & Engineer",
+            "category": "Cybersecurity",
+            "description": "Monitors, defends, and conducts penetration testing on enterprise network infrastructure and cloud native architectures.",
+            "benchmarks": "Min Technical Score: 75%, CGPA: 78+, Key Skills: Ethical Hacking, SIEM, Cryptography, Zero Trust",
+            "salary": "$120,000 \/ yr",
+            "growth": "+29% YoY"
+        },
+        "fintech_quant": {
+            "id": "fintech_quant",
+            "title": "Quantitative FinTech Developer",
+            "category": "FinTech & Blockchain",
+            "description": "Develops high-frequency trading algorithms, smart contracts, and decentralized financial protocols.",
+            "benchmarks": "Min Technical Score: 88%, CGPA: 88+, Key Skills: C++, Rust, Solidity, Quantitative Mathematics",
+            "salary": "$145,000 \/ yr",
+            "growth": "+25% YoY"
+        }
+    }
+}
